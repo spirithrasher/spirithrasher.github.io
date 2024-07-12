@@ -13,4 +13,6 @@ https://github.com/ChuchoSR/project-cv-dslt
 
 Commit = "Comentario agregado linea 16 para el trabajo del compañero Jesus Sierra "
 
+en la carpeta "imagenes_fork" esta la evidencia del fork mas el aporte realizado y aceptado por los compañeros 
+
 Saludos
